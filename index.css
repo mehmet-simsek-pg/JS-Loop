@@ -1,0 +1,20 @@
+.btn-links {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.btn-links a {
+  text-decoration: none;
+  background-color: orange;
+  color: black;
+  padding: 16px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 1rem;
+}
+.btn-links a:hover {
+  color: #fff;
+  background: blueviolet;
+  transition: background-color 2s, color 1s;
+}
